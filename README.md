@@ -6,6 +6,8 @@ The solution, under the (unlikely to be true but easy to manipulate mathematical
 
 ![](plots.png)
 
+I went quite far with this but there's still some work left to do so, technically, this is still work in progress.
+
 Originally written on April 6, 2015.
 
 ## Creator
